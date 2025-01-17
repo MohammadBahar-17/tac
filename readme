@@ -1,0 +1,10 @@
+# Dart Tic-Tac-Toe Console Application
+
+A simple, interactive Tic-Tac-Toe game implemented in Dart. This console-based application allows two players to take turns making moves on a 3x3 grid until one player wins or the game ends in a draw.
+
+## Features:
+- Two-player mode (Player X and Player O).
+- Input validation to ensure valid moves.
+- Displays the current state of the game board after each move.
+- Declares the winner or a draw at the end of the game.
+- Option to restart the game after it concludes.
